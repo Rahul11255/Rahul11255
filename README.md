@@ -7,6 +7,9 @@
 <h2 align="left">I'm excited to share that I'm currently immersed in an exciting project: developing a voting system website.</h2>
 
 ###
+Current Project 
+ https://github.com/Rahul11255/mern-VotingApp/blob/main/README.md
+###
 
 <br clear="both">
 
@@ -76,7 +79,6 @@
 </div>
 
 
- Current Project 
- https://github.com/Rahul11255/mern-VotingApp/blob/main/README.md
+ 
 
 ###
