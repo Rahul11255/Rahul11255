@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h2 align="center">🌐Follow us :</h2>
+<h2 align="left">🌐Follow us :</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="center">🧑‍🎓languages and tools:</h2>
+<h2 align="left">🧑‍🎓languages and tools:</h2>
 
 ###
 
@@ -54,6 +54,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
+
+###
+
+<h2 align="left">💹Github Stats:</h2>
 
 ###
 
