@@ -81,4 +81,6 @@ Current Project
 ###
 
 
-[![GitHub stars](https://img.shields.io/github/stars/username=Rahul11255/repository.svg?style=social)](https://github.com/username=Rahul11255/repository)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rahul11255&theme=radical&no-frame=false&no-bg=true&margin-w=4)
