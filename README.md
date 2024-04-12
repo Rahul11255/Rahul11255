@@ -76,9 +76,9 @@ Current Project
 </div>
 </br>
 <div align="left">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul11255&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
-
- 
+</div
 
 ###
+
+
+[![GitHub stars](https://img.shields.io/github/stars/username=Rahul11255/repository.svg?style=social)](https://github.com/username=Rahul11255/repository)
