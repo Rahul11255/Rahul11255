@@ -13,7 +13,7 @@ Current Project
 
 <br clear="both">
 
-<h2 align="left">🌐Follow us :</h2>
+<h2 align="left">🌐 Follow us :</h2>
 
 ###
 
@@ -60,7 +60,7 @@ Current Project
 </br>
 
 
-<h2 align="left">💹Github Stats:</h2>
+<h2 align="left">💹 Github Stats:</h2>
 
 
 
