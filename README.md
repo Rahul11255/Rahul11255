@@ -1,4 +1,4 @@
-<br clear="both">
+ni<br clear="both">
 
 <h2 align="left">Hi 👋!<br>I'm Rahul Patel, a web developer hailing from the vibrant city of Delhi, India. Currently, I'm juggling between my studies as I pursue my Master's in Computer Applications (MCA) and my passion for coding.</h2>
 
@@ -10,7 +10,8 @@
 Current Project 
  https://github.com/Rahul11255/mern-VotingApp/blob/main/README.md
 ##
-https://rahul11255.github.io/info-tech/
+https://eci-voting-system.vercel.app/
+
 
 <br clear="both">
 
